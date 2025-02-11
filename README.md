@@ -13,7 +13,7 @@ Currently, the paper is under review, and the use of this code is restricted to 
 
 ![Python 3.7](https://img.shields.io/badge/python-3.7-blue.svg)
 ![PyDOE Version](https://img.shields.io/badge/PyDOE-0.3.8-blue.svg)
-![PyTorch Version](https://img.shields.io/badge/pytorch-1.9.0-brightgreen.svg)
+![PyTorch Version](https://img.shields.io/badge/pytorch-1.10.0-brightgreen.svg)
 
 ## Code of AdaPW method for Solving PDE problems
 - [Forward problems]
