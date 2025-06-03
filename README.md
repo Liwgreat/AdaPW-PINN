@@ -8,6 +8,7 @@ Title: "AdaPW: An Adaptive Point-weighting Method for Training Physics-informed 
 
 Currently, the paper is under review, and the use of this code is restricted to academic review. 
 
+# Code
 
 ### Requirements:
 
@@ -15,7 +16,7 @@ Currently, the paper is under review, and the use of this code is restricted to 
 ![PyDOE Version](https://img.shields.io/badge/PyDOE-0.3.8-blue.svg)
 ![PyTorch Version](https://img.shields.io/badge/pytorch-1.10.0-brightgreen.svg)
 
-## Code of AdaPW method for Solving PDE problems
+### Code of AdaPW method for Solving PDE problems
 - [Forward problems]
     - [Poisson](/Forward_problems/Poisson)
    - [Burgers](/Forward_problems/Burgers)
