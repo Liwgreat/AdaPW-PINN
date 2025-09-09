@@ -4,9 +4,8 @@ Title: "AdaPW: An Adaptive Point-weighting Method for Training Physics-informed 
 ### Initial Work:
 [Revisiting PINNs: Generative Adversarial Physics-Informed Neural Networks and Point-Weighting Method](https://arxiv.org/abs/2205.08754)
 
-## Usage for Academic Purposes
-
-Currently, the paper is under review, and the use of this code is restricted to academic review. 
+### Current Publication:
+[AdaPW: An adaptive point-weighting method for training physics-informed neural networks](https://www.sciencedirect.com/science/article/pii/S0898122125003591)
 
 # Code
 
